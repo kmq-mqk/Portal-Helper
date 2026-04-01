@@ -1,0 +1,24 @@
+{
+	"course_id": "CSC10014",
+	"class_name": "24CTT4",
+	"times": [
+		{
+			"start": "? period / actual time ?",
+			"end": "? period / actual time ?"
+		},
+		"repeat..."
+	],
+	"practical_class": [
+		{
+			"class_name": "2",
+			"times": [
+				{
+					"start": "? period / actual time ?",
+					"end": "? period / actual time ?"
+				},
+			"repeat..."
+			]
+		}
+	],
+	"pick": 1
+}

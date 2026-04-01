@@ -1,0 +1,31 @@
+{
+	"blocked_times": [
+		{
+			"day": "Fri",
+			"start": "? period/ time ?",
+			"end": "? period/ time ?",
+			"penalty": -1
+		},
+		"repeat..."
+	],
+	"wanted_times": [
+		{
+			"day": "Fri",
+			"start": "? period/ time ?",
+			"end": "? period/ time ?",
+			"bonus": 2
+		},
+		"repeat..."
+	],
+	"prefer_least_days": -1,
+	"prefer_compact": -1,
+
+	"wanted_courses": [
+		{
+			"course_id": "CSC10012",
+			"penalty": -5
+		},
+		"repeat..."
+	],
+	"accepted_fatigue_per_day": 10
+}
